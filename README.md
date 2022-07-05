@@ -1,3 +1,3 @@
 # beecrowd-problems
 
-solutions
+solutions in python
